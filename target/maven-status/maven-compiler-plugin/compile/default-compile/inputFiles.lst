@@ -1,0 +1,11 @@
+/home/bernardo/IdeaProjects/O6SDungeons/src/main/java/org/dungeon/GameStates.java
+/home/bernardo/IdeaProjects/O6SDungeons/src/main/java/org/dungeon/O6SDungeon.java
+/home/bernardo/IdeaProjects/O6SDungeons/src/main/java/org/dungeon/commands/CommandStart.java
+/home/bernardo/IdeaProjects/O6SDungeons/src/main/java/org/dungeon/commands/CommandVanish.java
+/home/bernardo/IdeaProjects/O6SDungeons/src/main/java/org/dungeon/countdowns/PreGameTimer.java
+/home/bernardo/IdeaProjects/O6SDungeons/src/main/java/org/dungeon/listeners/Build.java
+/home/bernardo/IdeaProjects/O6SDungeons/src/main/java/org/dungeon/listeners/Damage.java
+/home/bernardo/IdeaProjects/O6SDungeons/src/main/java/org/dungeon/listeners/Food.java
+/home/bernardo/IdeaProjects/O6SDungeons/src/main/java/org/dungeon/listeners/Join.java
+/home/bernardo/IdeaProjects/O6SDungeons/src/main/java/org/dungeon/managers/ChatManager.java
+/home/bernardo/IdeaProjects/O6SDungeons/src/main/java/org/dungeon/managers/PlayerManager.java

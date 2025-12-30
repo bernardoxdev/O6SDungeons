@@ -1,0 +1,7 @@
+name: O6SGameCore
+version: '1.0-SNAPSHOT'
+main: org.dungeon.O6SDungeon
+api-version: '1.21'
+commands:
+  vanish:
+  start:
